@@ -7,7 +7,7 @@
 <img src="https://github.com/tvelliott/superH_rev4/blob/master/superH_rev4_pcb.png">
 <BR>
 <BR>
-The firmware may be added to the repository later.  Currently can decode the follow protocols:
+The firmware may be added to the repository later.  Currently can decode the follow protocols in stand-alone mode (NO PC):
 <PRE>
 Available SuperH+ built-in/stand-alone demod/decoders
 ------------------
