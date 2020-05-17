@@ -23,13 +23,14 @@ POCSAG 1200 - Console output (mode pagers, fm)
 </PRE>
 <BR>
 <BR>
-RF performance is very good from 10 MHz to 1100 MHz.  Usable tuning range is from around 4 MHz to 1200 MHz.
+RF performance is stellar from 10 MHz to 1100 MHz.  Usable tuning range is from around 4 MHz to 1200 MHz.
 <BR>
 1st IF is 1.5 GHz  (high IF like a typical spectrum analyzer)
 <BR>
 Baseband filters are 10 - 150 kHz in 16 steps.  70dB adjacent rejection,  100+ dB alternate rejection.
 NCO based final tuning.
-ACARS can receive >350 miles away with an indoor antenna.
+20dB pre-LNA attenuator front-end
+ACARS receives long messages >350 miles away with an indoor antenna and 0 bit errors.
 
 <BR>
 <BR>
