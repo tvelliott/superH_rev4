@@ -36,7 +36,10 @@ Baseband filters are 10 - 150 kHz in 16 steps.  70dB adjacent rejection,  100+ d
 <BR>
 <BR>
 superH FM demod demonstration
-https://youtu.be/HBXcUFW8yaA
+https://youtu.be/HBXcUFW8yaA  
+<BR>
+P25P1 demo
+https://youtu.be/G3MCHvNcKHg
 <BR>
 superH gqrx / 40-meter / AM demo
 https://youtu.be/u9L5sJRPFiQ
@@ -46,9 +49,6 @@ https://youtu.be/9KYXXc-55yA
 <BR>
 SuperH+ receiving ADSB
 https://youtu.be/LvIR2hlR7_A
-<BR>
-P25P1 demo
-https://youtu.be/G3MCHvNcKHg
 <BR>
 <BR>
 <img src="https://github.com/tvelliott/superH_rev4/blob/master/superH_rev4_pcb_final_assembly_small.png">
