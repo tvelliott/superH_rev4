@@ -16,7 +16,7 @@ AM Analog narrow/med/wide (mode am)
 IQ 16-bit over UDP (mode iq) + GNURadio Driver
 P25P1 Voice + Trunking Control Channel (mode p25)
 DMR Voice + ConnectPlus Trunking Control Channel (mode dmr)
-ADSB Mode-S - Console output (mode adsb)
+ADSB Mode-S - Console output (mode adsb)   This mode uses 2 separate ADCs in single ended mode with 2 Msps / 8-bit.
 ACARS - Console output (mode acars)
 FLEX-4FSK-1600 - Console output (mode pagers, fm)
 POCSAG 1200 - Console output (mode pagers, fm)
@@ -33,7 +33,8 @@ Baseband filters are 10 - 150 kHz in 16 steps.  70dB adjacent rejection,  100+ d
 <BR>AGC extends dynamic range to over 150dB.
 <BR>ACARS receives long messages >350 miles away with an indoor antenna and 0 bit errors.
 <BR>DC coupling and extremely stable TCXO makes sub-Hz demodulation with software-based DC offset correction possible
-
+<BR>I/Q ADCs SNR is >= 82 dB in 16-bit differential mode of operation (10-150 kHz baseband filter mode).   
+  
 <BR>
 <BR>
 superH FM demod demonstration    (notice how you can see the phase display almost slow to stop on the unit circle during FMNB). 
