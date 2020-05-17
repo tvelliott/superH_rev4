@@ -35,7 +35,7 @@ Baseband filters are 10 - 150 kHz in 16 steps.  70dB adjacent rejection,  100+ d
 
 <BR>
 <BR>
-superH FM demod demonstration
+superH FM demod demonstration    (notice how you can see the phase display almost slow to stop on the unit circle during FMNB)
 https://youtu.be/HBXcUFW8yaA  
 <BR>
 P25P1 demo
