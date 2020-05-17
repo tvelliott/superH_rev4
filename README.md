@@ -30,6 +30,7 @@ This is not a cheap build by any measure, but the RF performance is stellar from
 Baseband filters are 10 - 150 kHz in 16 steps.  70dB adjacent rejection,  100+ dB alternate rejection.
 <BR>NCO based final tuning.
 <BR>20dB pre-LNA attenuator front-end
+<BR>AGC extends dynamic range to over 150dB.
 <BR>ACARS receives long messages >350 miles away with an indoor antenna and 0 bit errors.
 
 <BR>
