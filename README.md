@@ -34,7 +34,10 @@ Baseband filters are 10 - 150 kHz in 16 steps.  70dB adjacent rejection,  100+ d
 <BR>ACARS receives long messages >350 miles away with an indoor antenna and 0 bit errors.
 <BR>DC coupling and extremely stable TCXO makes sub-Hz demodulation with software-based DC offset correction possible
 <BR>I/Q ADCs SNR is >= 82 dB in 16-bit differential mode of operation (10-150 kHz baseband filter mode).   
-  
+
+<BR>
+<BR>
+<a href="https://github.com/tvelliott/superH_rev4/blob/master/audio_samples/superH_fm_radio_dynamics_silence_demo.wav">superH_fm_radio_dynamics_silence_demo.wav (recorded off air)</a>
 <BR>
 <BR>
 superH FM demod demonstration    (notice how you can see the phase display almost slow to stop on the unit circle during FMNB). 
