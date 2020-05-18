@@ -24,16 +24,16 @@ POCSAG 1200 - Console output (mode pagers, fm)
 <BR>
 <BR>
 This is not a cheap build by any measure, but the RF performance is stellar from 10 MHz to 1100 MHz.  Usable tuning range is from around 4 MHz to 1200 MHz.
-<BR>
+<BR><BR>
 1st IF is 1.5 GHz  (high IF like a typical spectrum analyzer)
-<BR>
+<BR><BR>
 Baseband filters are 10 - 150 kHz in 16 steps.  70dB adjacent rejection,  100+ dB alternate rejection.
-<BR>NCO based final tuning.
-<BR>20dB pre-LNA attenuator front-end
-<BR>AGC extends dynamic range to over 150dB.
-<BR>ACARS receives long messages >350 miles away with an indoor antenna and 0 bit errors.
-<BR>DC coupling and extremely stable TCXO makes sub-Hz demodulation with software-based DC offset correction possible
-<BR>I/Q ADCs SNR is >= 82 dB in 16-bit differential mode of operation (10-150 kHz baseband filter mode).   
+<BR><BR>NCO based final tuning.
+<BR><BR>20dB pre-LNA attenuator front-end
+<BR><BR>AGC extends dynamic range to over 150dB.
+<BR><BR>ACARS receives long messages >350 miles away with an indoor antenna and 0 bit errors.
+<BR><BR>DC coupling and extremely stable TCXO makes sub-Hz demodulation with software-based DC offset correction possible
+<BR><BR>I/Q ADCs SNR is >= 82 dB in 16-bit differential mode of operation (10-150 kHz baseband filter mode).   
 
 <BR>
 <BR>
