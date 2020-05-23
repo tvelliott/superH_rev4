@@ -29,7 +29,7 @@ This is not a cheap build by any measure, but the RF performance is stellar from
 <BR><BR>
 Baseband filters are 10 - 150 kHz in 16 steps.  70dB adjacent rejection,  100+ dB alternate rejection.
 <BR><BR>NCO based final tuning.
-<BR><BR>20dB pre-LNA attenuator front-end
+<BR><BR>20dB pre-LNA step-attenuator front-end (controlled by AGC)
 <BR><BR>AGC + DSP extends dynamic range to over 150dB.
 <BR><BR>ACARS receives long messages >350 miles away with an indoor antenna and 0 bit errors.
 <BR><BR>DC coupling and extremely stable TCXO makes sub-Hz demodulation with software-based DC offset correction possible
