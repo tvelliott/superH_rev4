@@ -23,7 +23,7 @@ POCSAG 1200 - Console output (mode pagers, fm)
 </PRE>
 <BR>
 <BR>
-This is not a cheap build by any measure, but the RF performance is stellar from 10 MHz to 1100 MHz.  Usable tuning range is from around 4 MHz to 1200 MHz.
+This is not a cheap build by any measure, but the RF performance is excellent from 10 MHz to 1100 MHz.  Usable tuning range is from around 4 MHz to 1200 MHz.
 <BR><BR>
 1st IF is 1.5 GHz  (high IF like a typical spectrum analyzer)
 <BR><BR>
