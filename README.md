@@ -1,5 +1,5 @@
 <html>
-<b>Ultra-performance narrow-band receiver hardware.
+<b>High-performance narrow-band receiver hardware.
 <BR>
 <BR><B>SuperH_rev4
 <BR>
