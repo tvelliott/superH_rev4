@@ -1,0 +1,14 @@
+*.d
+*.o
+*.class
+*.out
+*.bin
+*.elf
+*.hex
+*.lst
+timestamp.h
+icestorm
+build
+*.swp
+adsb*.txt
+adsb*.csv
