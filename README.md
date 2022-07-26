@@ -1,12 +1,22 @@
 <html>
-<b>High-performance narrow-band receiver hardware.
+<b>High-performance narrow-band receiver hardware.</b>
 <BR>
-<BR><B>SuperH_rev4
+<BR><B>SuperH_rev4</B>
 <BR>
 <p>
 <img src="https://github.com/tvelliott/superH_rev4/blob/master/superH_rev4_pcb.png">
 <BR>
 <BR>
+<BR>
+
+<BR>To compile:
+<BR>install the gcc arm toolchain version gcc-arm-none-eabi-7-2018-q2-update/
+<BR>https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads/7-2018-q2-update
+<BR>
+<BR>In the firmware directory, create a symbolic link to the toolchain:
+<BR>e.g. ln -s ../gcc-arm-none-eabi-7-2018-q2-update arm-toolchain
+<BR>Then type 'make' 
+<BR><BR>
 The firmware can decode the follow protocols in stand-alone mode (NO PC):
 <PRE>
 Available SuperH+ built-in/stand-alone demod/decoders
@@ -23,8 +33,7 @@ POCSAG 1200 - Console output (mode pagers, fm)
 </PRE>
 <BR>
 <BR>
-This is not a cheap build by any measure, but the RF performance is excellent from 10 MHz to 1100 MHz.  Usable tuning range is from around 4 MHz to 1200 MHz.
-<BR><BR>
+
 1st IF is 1.5 GHz  (high IF like a typical spectrum analyzer)
 <BR><BR>
 Baseband filters are 10 - 150 kHz in 16 steps.  70dB adjacent rejection,  100+ dB alternate rejection.
